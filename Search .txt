@@ -1,0 +1,4 @@
+tricks to remember DDL DML DCL command
+
+ER diagram
+
